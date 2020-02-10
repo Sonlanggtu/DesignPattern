@@ -1,0 +1,3 @@
+﻿##
+https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm
+https://gpcoder.com/4796-huong-dan-java-design-pattern-strategy/
