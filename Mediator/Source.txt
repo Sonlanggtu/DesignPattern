@@ -1,0 +1,2 @@
+﻿https://www.tutorialspoint.com/design_pattern/mediator_pattern.htm
+https://gpcoder.com/4740-huong-dan-java-design-pattern-mediator/
