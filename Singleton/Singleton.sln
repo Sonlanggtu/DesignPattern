@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbtractFactoryPattern", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "..\Bridge\Bridge.csproj", "{112D45DE-A6D4-49BE-B05D-630B1E93441F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "..\Proxy\Proxy.csproj", "{15A7003D-88C5-4A80-9802-1735808699C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "..\Proxy\Proxy.csproj", "{15A7003D-88C5-4A80-9802-1735808699C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "..\Strategy\Strategy.csproj", "{AB7FA6CB-9DD6-4C8A-BC44-B6E087842FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "..\Strategy\Strategy.csproj", "{AB7FA6CB-9DD6-4C8A-BC44-B6E087842FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "..\Facade\Facade.csproj", "{A112D057-12D4-4ACF-8BEE-AFB6408FF6BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{AB7FA6CB-9DD6-4C8A-BC44-B6E087842FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB7FA6CB-9DD6-4C8A-BC44-B6E087842FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB7FA6CB-9DD6-4C8A-BC44-B6E087842FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A112D057-12D4-4ACF-8BEE-AFB6408FF6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A112D057-12D4-4ACF-8BEE-AFB6408FF6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A112D057-12D4-4ACF-8BEE-AFB6408FF6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A112D057-12D4-4ACF-8BEE-AFB6408FF6BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
