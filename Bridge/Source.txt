@@ -1,0 +1,2 @@
+﻿## Source ##
+https://gpcoder.com/4520-huong-dan-java-design-pattern-bridge/
