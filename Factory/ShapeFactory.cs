@@ -18,7 +18,6 @@ namespace Factory
                 if (value == "rectangle")
                 {
                     return new Rectangle();
-                   
                 }
                 else if(value == "square")
                 {
@@ -34,6 +33,6 @@ namespace Factory
                     return null;
                 }
             }
-        }  
+        }
     }
 }
